@@ -59,14 +59,14 @@
 <body>
     <header>
         <h3>Bienvenido a la página Pokémon!</h3>
-        <img src="https://img1.picmix.com/output/stamp/normal/5/3/2/3/2233235_0c846.png" alt="Pokébola">
+        <img src="img/pokeball.png" alt="Pokébola">
         <div>
             <a href="Pokemon.php"><button>Buscar Pokemon</button></a>
             <a href="juego.php"><button>Juego Pokemon</button></a>
         </div>
     </header>
 
-    <img src="img/fondo-pokemon.png" alt="Logo Pokémon" class="logo-image">
+    <img src="img/pokemon-fondo.png" alt="Logo Pokémon" class="logo-image">
 </body>
 
 </html>
