@@ -68,7 +68,7 @@
 </body>
 <style>
     body {
-        background-color: #f0f0f0;
+        background-image: url('img/fondo-juego.png');
         font-family: Arial, sans-serif;
         display: flex;
         justify-content: center;
